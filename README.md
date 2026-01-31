@@ -19,6 +19,7 @@ import numpy as np
 a=np.array([[6,2,3],[3,1,1],[10,3,4]])
 inverse=np.linalg.inv(a)
 print(inverse)
+```
 
 ## Output:
 <img width="828" height="787" alt="image" src="https://github.com/user-attachments/assets/536e891f-5159-47ab-b340-98a2929a2d75" />
